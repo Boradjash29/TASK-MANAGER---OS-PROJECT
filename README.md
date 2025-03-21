@@ -1,0 +1,64 @@
+OS Task Manager
+
+📌 Overview
+The OS Task Manager is a system monitoring and management tool that provides real-time insights into system performance, running processes, and resource utilization. It allows users to track CPU and memory usage, manage active tasks, and improve overall system efficiency.
+
+🚀 Features
+- 📊 Process Monitoring: View detailed information about active processes, including CPU and memory consumption.
+- 🚦 Resource Utilization Tracking: Monitor CPU, RAM, and disk usage in real-time.
+- ❌ Task Management: Terminate unresponsive or unwanted processes.
+- 📈 System Performance Insights: View historical and real-time system performance metrics.
+- 🎨 User-Friendly Interface: Intuitive design with easy navigation.
+
+ 🛠️ Technologies Used
+- Programming Language: Python 
+- GUI Framework: Tkinter 
+- System APIs:  Linux system calls 
+- Additional Librarie: psutil
+
+ 📥 Installation
+ Prerequisites
+- Operating System: Linux 
+- Python 3.10.12
+- Required Dependencies (for Python-based projects):
+  ```sh
+  pip install -r requirements.txt
+  ```
+
+Steps to Install
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Jash/os-task-manager.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd task_manager
+   ```
+3. Install dependencies (if applicable):
+   ```sh
+   pip install -r requirements.txt
+   ```
+4. Run the application:
+   ```sh
+   python3 main.py  
+   ```
+
+🖥️ Usage
+1. **Launch the Task Manager**: Run the executable or script.
+2. **Monitor System Performance**: Observe CPU, RAM, and active processes.
+3. **Manage Processes**: End tasks or prioritize system resources.
+4. **Optimize System Performance**: Identify resource-heavy applications.
+
+🤝 Contribution
+Contributions are welcome! If you’d like to contribute:
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -m "Add new feature"`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Submit a Pull Request
+
+
+📞 Contact
+- Author: Jash Borad 
+- GitHub: https://github.com/Boradjash29
+- Email: jashborad13@gmail.com
