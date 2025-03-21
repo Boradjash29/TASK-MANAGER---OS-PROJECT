@@ -4,11 +4,11 @@ OS Task Manager
 The OS Task Manager is a system monitoring and management tool that provides real-time insights into system performance, running processes, and resource utilization. It allows users to track CPU and memory usage, manage active tasks, and improve overall system efficiency.
 
 🚀 Features
-- 📊 Process Monitoring: View detailed information about active processes, including CPU and memory consumption.
-- 🚦 Resource Utilization Tracking: Monitor CPU, RAM, and disk usage in real-time.
-- ❌ Task Management: Terminate unresponsive or unwanted processes.
-- 📈 System Performance Insights: View historical and real-time system performance metrics.
-- 🎨 User-Friendly Interface: Intuitive design with easy navigation.
+- Process Monitoring: View detailed information about active processes, including CPU and memory consumption.
+- Resource Utilization Tracking: Monitor CPU, Network usage, and disk usage in real-time.
+- Task Management: Terminate unresponsive or unwanted processes.
+- System Performance Insights: View historical and real-time system performance metrics.
+- User-Friendly Interface: Intuitive design with easy navigation.
 
  🛠️ Technologies Used
 - Programming Language: Python 
