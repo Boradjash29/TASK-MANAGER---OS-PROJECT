@@ -28,13 +28,13 @@ The OS Task Manager is a system monitoring and management tool that provides rea
 Steps to Install
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Jash/os-task-manager.git
+   https://github.com/Boradjash29/TASK-MANAGER---OS-PROJECT.git
    ```
 2. Navigate to the project directory:
    ```sh
    cd task_manager
    ```
-3. Install dependencies (if applicable):
+3. Install dependencies :
    ```sh
    pip install -r requirements.txt
    ```
