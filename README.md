@@ -44,18 +44,10 @@ Steps to Install
    ```
 
 🖥️ Usage
-1. **Launch the Task Manager**: Run the executable or script.
-2. **Monitor System Performance**: Observe CPU, RAM, and active processes.
-3. **Manage Processes**: End tasks or prioritize system resources.
-4. **Optimize System Performance**: Identify resource-heavy applications.
-
-🤝 Contribution
-Contributions are welcome! If you’d like to contribute:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m "Add new feature"`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Submit a Pull Request
+1. Launch the Task Manager: Run the executable or script.
+2. Monitor System Performance: Observe CPU, RAM, and active processes.
+3. Manage Processes: End tasks or prioritize system resources.
+4. Optimize System Performance: Identify resource-heavy applications.
 
 
 📞 Contact
